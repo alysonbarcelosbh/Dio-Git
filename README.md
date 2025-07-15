@@ -14,3 +14,4 @@ Repositórios para armazenas resumos sobre git e github do curso versionamento d
 
 \- \[Documentação GitHub](https://docs.github.com/)
 
+Texto apenas para editar o README.md
